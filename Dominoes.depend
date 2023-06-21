@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648346706 source:c:\users\amr khaled\desktop\dominoes\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<conio.h>
+
